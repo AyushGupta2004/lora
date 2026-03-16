@@ -1,0 +1,19 @@
+# Arduino/ESP32 generated build outputs
+build/
+build_noota/
+*.elf
+*.bin
+*.map
+*.o
+*.d
+
+# Local editor config
+.vscode/c_cpp_properties.json
+
+# Temp/backup files
+*.bak
+*.tmp
+*~
+
+# Local video captures (too large for normal GitHub push)
+software/OLED/*.mp4

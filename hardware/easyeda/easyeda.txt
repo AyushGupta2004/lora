@@ -1,0 +1,10 @@
+ROTARY ENCODER https://easyeda.com/modules/Rotary-Encoder-module_ed9ac0179eb14fcf84d40d920541cfb6
+
+KEYPAD 4X4 https://easyeda.com/modules/KeyPad-4x4_cd8df2c673a74e6ca2cff6dd0dd9498d
+
+ESP32 https://easyeda.com/modules/ESP32-DEVKIT-V1_6675cfd814524bf3a1982232dbd6c9dc
+
+OLED1_3_128x64_I2C
+
+LORA https://easyeda.com/modules/LoRa-02_0eff58655ae84137818c21a8159d47d4
+
